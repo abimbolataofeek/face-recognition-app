@@ -9,6 +9,10 @@ body {
   background: linear-gradient(90deg, rgba(58,180,136,1) 0%, rgba(29,127,253,1) 50%, rgba(69,251,252,1) 100%);
 }
 
+button{
+  cursor: pointer;
+}
+
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
